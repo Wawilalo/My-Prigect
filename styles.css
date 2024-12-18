@@ -1,8 +1,13 @@
+body {
+    background-image: url(Backround.png);
+    background-repeat: no-repeat;
+}
+
 .h1 {
     margin-left: 200px;
     text-align: center;
-    width: 900px;
-    height: 180px;
+    width: auto;
+    height: auto;
     border: 3px solid rgb(77, 255, 77);
     border-radius: 1px 1px 25px 25px;
     background-color: rgb(184, 255, 184);
@@ -11,8 +16,8 @@
 
 .h2 {
     margin-left: 253px;
-    width: 700px;
-    height: 45px;
+    width:auto;
+    height: auto;
     border: 2px solid #d6a447 ;
     border-radius: 1px 1px 20px 20px;
     text-align: center;
@@ -38,8 +43,8 @@
 .finish {
     border: 2px solid rgb(214, 67, 67);
     border-radius: 20px 20px 20px 20px;
-    width: 1250px;
-    height: 550px;
+    width: auto;
+    height:auto;
     text-align: center;
     background-color: rgb(245, 222, 222);
 }
@@ -51,3 +56,4 @@
     border-radius: 20px;
     
 }
+
